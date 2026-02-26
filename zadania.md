@@ -1,10 +1,13 @@
 # 📋 Lista Zadań
 
-> Ostatnia aktualizacja: 26.02.2026, 16:44:26
+> Ostatnia aktualizacja: 26.02.2026, 16:44:28
 
 ## Zadania
 
-- [ ] [prio:medium] ada| 26.02.2026
+
+### Ukończone
+
+- [x] [prio:medium] ~~ada~~ | 26.02.2026
 
 ---
 
