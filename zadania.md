@@ -1,9 +1,10 @@
 # 📋 Lista Zadań
 
-> Ostatnia aktualizacja: 26.02.2026, 15:38:21
+> Ostatnia aktualizacja: 26.02.2026, 15:38:29
 
 ## Zadania
 
+- [ ] dodac nowe funkcje | 26.02.2026
 - [ ] inne zadanie | 26.02.2026
 - [ ] testowa wiadomosc | 26.02.2026
 
