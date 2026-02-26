@@ -1,9 +1,10 @@
 # 📋 Lista Zadań
 
-> Ostatnia aktualizacja: 26.02.2026, 16:43:38
+> Ostatnia aktualizacja: 26.02.2026, 16:43:49
 
 ## Zadania
 
+- [ ] [prio:medium] ada| 26.02.2026
 - [ ] [prio:medium] a| 26.02.2026
 - [ ] [prio:low] test due:2026-02-28 | 26.02.2026
 
