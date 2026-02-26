@@ -1,12 +1,15 @@
 # 📋 Lista Zadań
 
-> Ostatnia aktualizacja: 26.02.2026, 15:38:16
+> Ostatnia aktualizacja: 26.02.2026, 15:38:21
 
 ## Zadania
 
 - [ ] inne zadanie | 26.02.2026
 - [ ] testowa wiadomosc | 26.02.2026
-- [ ] aaa | 26.02.2026
+
+### Ukończone
+
+- [x] ~~aaa~~ | 26.02.2026
 
 ---
 
