@@ -1,15 +1,14 @@
 # 📋 Lista Zadań
 
-> Ostatnia aktualizacja: 26.02.2026, 16:26:42
+> Ostatnia aktualizacja: 26.02.2026, 16:27:06
 
 ## Zadania
 
-- [ ] inne zadanie | 26.02.2026
 - [ ] testowa wiadomosc | 26.02.2026
+- [ ] inne zadanie | 26.02.2026
 
 ### Ukończone
 
-- [x] ~~dodac nowe funkcje~~ | 26.02.2026
 - [x] ~~inne zadanie~~ | 26.02.2026
 - [x] ~~aaa~~ | 26.02.2026
 
