@@ -1,16 +1,17 @@
 # 📋 Lista Zadań
 
-> Ostatnia aktualizacja: 26.02.2026, 16:27:06
+> Ostatnia aktualizacja: 26.02.2026, 16:40:53
 
 ## Zadania
 
-- [ ] testowa wiadomosc | 26.02.2026
-- [ ] inne zadanie | 26.02.2026
+- [ ] [prio:medium] testowa wiadomosc| 26.02.2026
+- [ ] [prio:medium] inne zadanie| 26.02.2026
+- [ ] [prio:low] test due:2026-02-28 | 26.02.2026
 
 ### Ukończone
 
-- [x] ~~inne zadanie~~ | 26.02.2026
-- [x] ~~aaa~~ | 26.02.2026
+- [x] [prio:medium] ~~inne zadanie~~ | 26.02.2026
+- [x] [prio:medium] ~~aaa~~ | 26.02.2026
 
 ---
 
